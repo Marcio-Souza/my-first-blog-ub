@@ -25,7 +25,7 @@ SECRET_KEY = 'mo$5-xzhhnx=gf#jk!q^p19^n9*e*8-h*h4q@f+7*-^5l@*=9v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['margarso.pythonanywhere.com']
 
 
 # Application definition
